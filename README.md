@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yasas Kavinda
-- 👀 I’m interested in Data Science, Data Analytics and Machine learning.
+- 👀 I’m interested in Data Science, Data Analytics, Data Visualization and Machine learning.
 - 🌱 I’m currently an undergraduate in University of Colombo
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
